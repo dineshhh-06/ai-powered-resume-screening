@@ -1,0 +1,13 @@
+# Python
+resume-analyzer-api/venv/
+__pycache__/
+*.pyc
+
+# Node
+resume-analyzer-ui/node_modules/
+dist/
+
+# General
+*.log
+.env
+.DS_Store
