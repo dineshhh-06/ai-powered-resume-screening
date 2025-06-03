@@ -12,7 +12,7 @@ import { toast } from "@/hooks/use-toast";
 import { ToastAction } from "@/components/ui/toast";
 
 // API base URL - would be configured based on environment in a real app
-const API_BASE_URL = 'http://localhost:5173';
+const API_BASE_URL = 'http://localhost:5000/api';
 
 interface UploadedFile {
   original_name: string;
